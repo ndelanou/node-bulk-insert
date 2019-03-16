@@ -1,0 +1,14 @@
+{
+    "PORT": 3000,
+    "NB_ITERATION": 10,
+    "dbConfig": {
+        "user": "postgres",
+        "password": "postgres",
+        "database": "node-bulk-insert",
+        "host": "localhost",
+        "port": 5432,
+        "max": 20,
+        "idleTimeoutMillis": 15000,
+        "connectionTimeoutMillis": 15000
+    }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "isActive": false,
+    "userType": 3,
+    "firstName": "Chaney",
+    "lastName": "Anthony",
+    "username": "MamieStafford80",
+    "email": "mamiestafford@ziggles.com",
+    "dateRegistered": "2017-08-11T07:51:11 -02:00",
+    "dateBirth": "1965-06-12T06:14:27 -01:00"
+  },
+  {
+    "id": 1,
+    "isActive": false,
+    "userType": 3,
+    "firstName": "Conner",
+    "lastName": "Mckenzie",
+    "username": "JanelleFulton48",
+    "email": "janellefulton@ziggles.com",
+    "dateRegistered": "2016-04-06T09:09:39 -02:00",
+    "dateBirth": "1998-10-14T02:35:35 -02:00"
+  },
+  {
+    "id": 2,
+    "isActive": true,
+    "userType": 0,
+    "firstName": "Genevieve",
+    "lastName": "Mcdonald",
+    "username": "AntoinetteFerguson10",
+    "email": "antoinetteferguson@ziggles.com",
+    "dateRegistered": "2014-01-25T04:03:24 -01:00",
+    "dateBirth": "2005-12-31T11:30:37 -01:00"
+  },
+  {
+    "id": 3,
+    "isActive": true,
+    "userType": 1,
+    "firstName": "Pate",
+    "lastName": "Spencer",
+    "username": "DarlenePrince89",
+    "email": "darleneprince@ziggles.com",
+    "dateRegistered": "2016-09-27T09:50:44 -02:00",
+    "dateBirth": "1975-09-26T10:03:12 -01:00"
+  },
+  {
+    "id": 4,
+    "isActive": true,
+    "userType": 2,
+    "firstName": "Ester",
+    "lastName": "Conner",
+    "username": "ContrerasSolomon19",
+    "email": "contrerassolomon@ziggles.com",
+    "dateRegistered": "2015-10-22T01:54:00 -02:00",
+    "dateBirth": "1977-10-27T05:07:12 -01:00"
+  },
+  {
+    "id": 5,
+    "isActive": false,
+    "userType": 3,
+    "firstName": "Evans",
+    "lastName": "Mason",
+    "username": "MacdonaldAguilar48",
+    "email": "macdonaldaguilar@ziggles.com",
+    "dateRegistered": "2015-06-12T11:36:42 -02:00",
+    "dateBirth": "1988-12-21T09:10:53 -01:00"
+  },
+  {
+    "id": 6,
+    "isActive": true,
+    "userType": 2,
+    "firstName": "Shari",
+    "lastName": "Lindsey",
+    "username": "RobinPearson1",
+    "email": "robinpearson@ziggles.com",
+    "dateRegistered": "2017-08-12T01:52:38 -02:00",
+    "dateBirth": "1953-02-24T09:13:29 -01:00"
+  },
+  {
+    "id": 7,
+    "isActive": false,
+    "userType": 1,
+    "firstName": "Gutierrez",
+    "lastName": "Bonner",
+    "username": "AmaliaMorrow8",
+    "email": "amaliamorrow@ziggles.com",
+    "dateRegistered": "2016-03-08T04:40:47 -01:00",
+    "dateBirth": "1966-07-15T11:21:55 -01:00"
+  },
+  {
+    "id": 8,
+    "isActive": false,
+    "userType": 0,
+    "firstName": "Foster",
+    "lastName": "Sanford",
+    "username": "VanceBates6",
+    "email": "vancebates@ziggles.com",
+    "dateRegistered": "2014-12-30T07:16:58 -01:00",
+    "dateBirth": "1953-03-15T10:48:34 -01:00"
+  },
+  {
+    "id": 9,
+    "isActive": false,
+    "userType": 4,
+    "firstName": "Angelina",
+    "lastName": "Scott",
+    "username": "GenevaOdom39",
+    "email": "genevaodom@ziggles.com",
+    "dateRegistered": "2015-10-30T06:10:33 -01:00",
+    "dateBirth": "1995-06-29T07:43:27 -02:00"
+  }
+]

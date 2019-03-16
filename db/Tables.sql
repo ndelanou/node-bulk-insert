@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS users (
+    id INTEGER PRIMARY KEY,
+    isActive BOOLEAN NOT NULL DEFAULT false,
+    userType INTEGER NOT NULL DEFAULT 0,
+    firstName TEXT NOT NULL,
+    lastName TEXT NOT NULL,
+    username TEXT NOT NULL,
+    email TEXT NOT NULL,
+    dateRegistered TIMESTAMP WITH TIME ZONE NOT NULL,
+    dateBirth TIMESTAMP WITH TIME ZONE NOT NULL
+);
