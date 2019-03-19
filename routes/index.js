@@ -44,8 +44,8 @@ module.exports = (app) => {
 
     app.get('/all', async (req, res) => {
         try {
-            const result_basic = await InsertService.insert(pg_function)
-            const result_parameter = await InsertService.insert(pg_function)
+            const result_basic = await InsertService.insert(basic)
+            const result_parameter = await InsertService.insert(parameter)
             const result_pg_function = await InsertService.insert(pg_function)
 
             res.json({
